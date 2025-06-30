@@ -10,7 +10,7 @@ Thanks to the impressive planning, reasoning, and tool‑calling capabilities of
 
 Our goal with this project is to build an exhaustive collection of awesome resources relevant to LLM‑powered agents—papers, repositories, datasets, and more. We strive to keep these updated regularly and continuously. **We greatly appreciate any contributions via PRs, issues, emails, or other methods.**
 
-> **Maintenance note:** This repository is **not** under active maintenance. It mainly collects works that appeared **before June 2025**, with a handful of later additions. If you would like your paper included, please open a pull request.
+> **Maintenance note:** This repository is under active maintenance. It mainly collects works that appeared **before June 2025**, with a handful of later additions. If you would like your paper included, please open a pull request.
 
 ---
 
