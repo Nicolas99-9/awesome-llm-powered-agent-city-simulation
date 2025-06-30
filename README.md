@@ -39,7 +39,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 | 2024 | OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents                                         | [paper](https://arxiv.org/abs/2410.21286)                       |
 | 2025 | Simulating Influence Dynamics with LLM Agents                                                                              | [paper](https://arxiv.org/abs/2503.08709)                       |
 | 2023 | Simulating Opinion Dynamics with Networks of LLM‑Based Agents                                                              | [paper](https://arxiv.org/abs/2311.09618) (Findings NAACL 2024) |
-| 2025 | 🔥 SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation                          | [paper](https://arxiv.org/abs/2504.12722)                       |
+| 2025 | 🔥 SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation                          | [paper](https://arxiv.org/abs/2504.12722) (ACL 2025)                       |
 | 2024 | Toward LLM‑Agent‑Based Modeling of Transportation Systems                                                                  | [paper](https://arxiv.org/abs/2412.06681)                       |
 | 2023 | Urban Generative Intelligence (UGI): A Foundational Platform for LLMs in Urban Systems                                     | [paper](https://arxiv.org/abs/2312.11813)                       |
 
