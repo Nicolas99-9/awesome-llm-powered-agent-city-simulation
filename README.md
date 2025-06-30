@@ -1,4 +1,4 @@
-# Awesome LLM‑Powered Agents for City/Urban and Social Simulation
+# Awesome LLM‑Powered Agents for City‑Scale Simulation
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](../../pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -16,28 +16,34 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ## ✨ Foundational Works
 
-| Year | Title                                                      | Reference        |
-| ---- | ---------------------------------------------------------- | ---------------- |
-| 2023 | Generative Agents: Interactive Simulacra of Human Behavior | arXiv:2304.03442 |
-| 2024 | Generative Agent Simulations of 1,000 People               | arXiv:2411.10109 |
+| Year | Title                                                      | Reference                                 |
+| ---- | ---------------------------------------------------------- | ----------------------------------------- |
+| 2023 | Generative Agents: Interactive Simulacra of Human Behavior | [paper](https://arxiv.org/abs/2304.03442) |
+| 2024 | Generative Agent Simulations of 1,000 People               | [paper](https://arxiv.org/abs/2411.10109) |
 
 ## 🏙️ Domain‑Specific Urban & Social Simulations
 
-| Year | Title                                                                                                                      | Reference / Notes                      |
-| ---- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| 2025 | AgentSociety: Large‑Scale Simulation of LLM‑Driven Generative Agents Advances Understanding of Human Behaviors and Society | arXiv:2502.08691                       |
-| 2024 | ChatSUMO: Large Language Model for Automating Traffic Scenario Generation in SUMO                                          | arXiv:2409.09040                       |
-| 2024 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models                                                       | arXiv:2406.13948 (KDD 2025)            |
-| 2025 | CitySim: Modeling Urban Behaviors and City Dynamics with Large Language Models                                             | arXiv:2506.21805                       |
-| 2024 | Controllable Traffic Simulation through LLM‑Guided Hierarchical Diffusion                                                  | arXiv:2409.15135                       |
-| 2025 | CrimeMind: Simulating Urban Crime with Multi‑Modal LLM Agents                                                              | arXiv:2506.05981                       |
-| 2025 | Incorporating LLMs for Large‑Scale Urban Complex Mobility Simulation                                                       | arXiv:2505.21880                       |
-| 2024 | OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents                                         | arXiv:2410.21286                       |
-| 2025 | Simulating Influence Dynamics with LLM Agents                                                                              | arXiv:2503.08709                       |
-| 2023 | Simulating Opinion Dynamics with Networks of LLM‑Based Agents                                                              | arXiv:2311.09618 (Findings NAACL 2024) |
-| 2025 | SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation                             | arXiv:2504.12722                       |
-| 2024 | Toward LLM‑Agent‑Based Modeling of Transportation Systems                                                                  | arXiv:2412.06681                       |
-| 2023 | Urban Generative Intelligence (UGI): A Foundational Platform for LLMs in Urban Systems                                     | arXiv:2312.11813                       |
+| Year | Title                                                                                                                      | Reference / Notes                                               |
+| ---- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 2025 | AgentSociety: Large‑Scale Simulation of LLM‑Driven Generative Agents Advances Understanding of Human Behaviors and Society | [paper](https://arxiv.org/abs/2502.08691)                       |
+| 2024 | ChatSUMO: Large Language Model for Automating Traffic Scenario Generation in SUMO                                          | [paper](https://arxiv.org/abs/2409.09040)                       |
+| 2024 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models                                                       | [paper](https://arxiv.org/abs/2406.13948) (KDD 2025)            |
+| 2025 | 🔥 CitySim: Modeling Urban Behaviors and City Dynamics with Large Language Models                                          | [paper](https://arxiv.org/abs/2506.21805)                       |
+| 2024 | CoMAL: Collaborative Multi‑Agent Large Language Models for Mixed‑Autonomy Traffic                                          | [paper](https://arxiv.org/abs/2410.14368)                       |
+| 2024 | Controllable Traffic Simulation through LLM‑Guided Hierarchical Diffusion                                                  | [paper](https://arxiv.org/abs/2409.15135)                       |
+| 2025 | CrimeMind: Simulating Urban Crime with Multi‑Modal LLM Agents                                                              | [paper](https://arxiv.org/abs/2506.05981)                       |
+| 2025 | Exploring Traffic Simulation and Cybersecurity Strategies Using Large Language Models                                      | [paper](https://arxiv.org/abs/2506.16699)                       |
+| 2024 | GenSim: A General Social Simulation Platform with Large Language Model‑Based Agents                                        | [paper](https://arxiv.org/abs/2410.04360)                       |
+| 2025 | Incorporating LLMs for Large‑Scale Urban Complex Mobility Simulation                                                       | [paper](https://arxiv.org/abs/2505.21880)                       |
+| 2025 | LLM‑Based Social Simulations Require a Boundary                                                                            | [paper](https://arxiv.org/abs/2506.19806) (position paper)      |
+| 2024 | OpenCity: A Scalable Platform to Simulate Urban Activities with Massive LLM Agents                                         | [paper](https://arxiv.org/abs/2410.21286)                       |
+| 2025 | Simulating Influence Dynamics with LLM Agents                                                                              | [paper](https://arxiv.org/abs/2503.08709)                       |
+| 2023 | Simulating Opinion Dynamics with Networks of LLM‑Based Agents                                                              | [paper](https://arxiv.org/abs/2311.09618) (Findings NAACL 2024) |
+| 2025 | 🔥 SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation                          | [paper](https://arxiv.org/abs/2504.12722)                       |
+| 2024 | Toward LLM‑Agent‑Based Modeling of Transportation Systems                                                                  | [paper](https://arxiv.org/abs/2412.06681)                       |
+| 2023 | Urban Generative Intelligence (UGI): A Foundational Platform for LLMs in Urban Systems                                     | [paper](https://arxiv.org/abs/2312.11813)                       |
+
+Rows are **alphabetised** by paper title within the table.
 
 ---
 
