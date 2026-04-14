@@ -25,6 +25,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 | Year | Title                                                                                                                      | Reference / Notes                                               |
 | ---- | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 2025 | 🔥 Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation                          | [paper](https://arxiv.org/abs/2604.09549) (arXiv 2026)                       |
 | 2025 | AgentSociety: Large‑Scale Simulation of LLM‑Driven Generative Agents Advances Understanding of Human Behaviors and Society | [paper](https://arxiv.org/abs/2502.08691)                       |
 | 2024 | ChatSUMO: Large Language Model for Automating Traffic Scenario Generation in SUMO                                          | [paper](https://arxiv.org/abs/2409.09040)                       |
 | 2024 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models                                                       | [paper](https://arxiv.org/abs/2406.13948) (KDD 2025)            |
