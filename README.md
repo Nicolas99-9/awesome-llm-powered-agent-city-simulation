@@ -31,6 +31,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 | 2024 | ChatSUMO: Large Language Model for Automating Traffic Scenario Generation in SUMO                                          | [paper](https://arxiv.org/abs/2409.09040)                       |
 | 2024 | CityGPT: Empowering Urban Spatial Cognition of Large Language Models                                                       | [paper](https://arxiv.org/abs/2406.13948) (KDD 2025)            |
 | 2025 | 🔥 CitySim: Modeling Urban Behaviors and City Dynamics with Large Language Models                                          | [paper](https://arxiv.org/abs/2506.21805)                       |
+| 2026 | 🔥 CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents | [paper](https://arxiv.org/abs/2608.16897) |
 | 2024 | CoMAL: Collaborative Multi‑Agent Large Language Models for Mixed‑Autonomy Traffic                                          | [paper](https://arxiv.org/abs/2410.14368)                       |
 | 2024 | Controllable Traffic Simulation through LLM‑Guided Hierarchical Diffusion                                                  | [paper](https://arxiv.org/abs/2409.15135)                       |
 | 2025 | CrimeMind: Simulating Urban Crime with Multi‑Modal LLM Agents                                                              | [paper](https://arxiv.org/abs/2506.05981)                       |
