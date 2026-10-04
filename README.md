@@ -45,6 +45,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 | 2025 | 🔥 SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation                          | [paper](https://arxiv.org/abs/2504.12722) (ACL 2025)                       |
 | 2024 | Toward LLM‑Agent‑Based Modeling of Transportation Systems                                                                  | [paper](https://arxiv.org/abs/2412.06681)                       |
 | 2023 | Urban Generative Intelligence (UGI): A Foundational Platform for LLMs in Urban Systems                                     | [paper](https://arxiv.org/abs/2312.11813)                       |
+| 2026 | When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses | [paper](https://arxiv.org/abs/2607.26348) · [code](https://github.com/ZihanChen1995/when-synthetic-users-fail-a-cross-domain-benchmark-of-llm-simulated-human-survey-responses) (arXiv; GSS/WVS survey-response benchmark) |
 
 Rows are **alphabetised** by paper title within the table.
 
